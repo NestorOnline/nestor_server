@@ -1,0 +1,31 @@
+Packing_Code,Packing_Name,Primary_Packing,PrimaryPack_Qty,Unit_Name,Packing_Description
+1,1 GM,1 GM,1,GRAM,10 ml injection
+2,10 X 10,10'S,10,CAPSULE,Strip of 10 capsules
+4,100 ML,100 ML,1,BOTTLE,100 ml bottle
+9,10 ML,10 ML,1,BOTTLE,10 ml bottle
+12,10 X 10,10'S,10,TABLET,Strip of 10 tablets
+13,10 X 1,1'S,1,TABLET,Strip of 1 tablets
+17,150 ML,150 ML,1,BOTTLE,150 ml bottle
+21,2 ML,2 ML,1,VIAL,2 ml injction
+24,200 ML,200 ML,1,BOTTLE,200 ml bottle
+27,21 GM,21 GM,15,GRAM,21 Gm Powder
+30,3 ML,3 ML,1,VIAL,3 ml injction
+31,30 ML,30 ML,1,BOTTLE,30 ml bottle
+50,60 ML,60 ML,1,BOTTLE,60 ml bottle
+103,10 ML,10 ML,1,VIAL,10 ml injction
+122,1 ML,1 ML,1,VIAL,1 ml injction
+130,1 X 6,6'S,6,TABLET,Strip of 6 tablets
+133,15 ML,15 ML,1,BOTTLE,15 ml bottle
+138,7.5 ML VIAL,7.5 ML,1,VIAL,7.5 ml injction
+139,5 X 10,10'S,10,TABLET,Strip of 10 tablets
+145,1 X 3,3'S,3,TABLET,Strip of 3 tablets
+147,VIAL,VAIL,1,VIAL,10 ml injction
+158,NO.,NO,1,NO.,1 Nos
+161,1 X 5,5'S,5,TABLET,Strip of 5 tablets
+171,1 X 4,4'S,4,TABLET,Strip of 5 tablets
+183,500 ML,500ML,1,BOTTLE,500 ml bottle
+219,10 X 14,14'S,14,TABLET,Strip of 14 tablets
+254,PCS,PCS,1,PCS,1 PCS
+392,30 ML,30 ML,1,VIAL,30 ml injection
+414,5 LTR,5 LTR,1,LTR,5 ltr in Can
+426,10 X 9,9'S,9,CAPSULE,Strip of 9 capsules
